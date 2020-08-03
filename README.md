@@ -18,3 +18,4 @@ Android app for a shared grocery shopping list.
 ![WhatsApp Image 2020-08-03 at 18 20 58](https://user-images.githubusercontent.com/38475764/89199361-1964f680-d5b7-11ea-81dc-5e4277c18872.jpeg)
 
 
+![WhatsApp Image 2020-08-03 at 18 21 51](https://user-images.githubusercontent.com/38475764/89199641-85475f00-d5b7-11ea-8e4a-22b759e01724.jpeg)
